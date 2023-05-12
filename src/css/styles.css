@@ -18,3 +18,28 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.country-item {
+  width: 350px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 5px 5px 5px 0px
+}
+
+.flag {
+  display: block;
+  width: 60px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.card-header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 5px 5px 5px 40px;
+  /*margin-left: 10px;*/
+}
+
+
